@@ -1,0 +1,16 @@
+.THIS .small-picklist {
+    width: 55px;
+}
+
+.THIS .slds-checkbox_faux:before {
+    background: none;
+}
+
+.THIS .slds-checkbox_faux:after {
+    background: none;
+}
+
+.THIS .slds-checkbox_faux {
+    width: 1.5rem;
+    height: 1.5rem;
+}
